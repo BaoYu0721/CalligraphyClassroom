@@ -1,0 +1,24 @@
+{
+	"camera":[
+		{
+			"name":"桌面1",
+			"ip":"192.168.0.27",
+			"user_name":"admin",
+			"password":"adminLTYBOS",
+			"rtsp_url":"rtsp://admin:adminLTYBOS@192.168.0.27:554/live1.sdp"
+		},
+		{
+			"name":"桌面2",
+			"ip":"",
+			"user_name":"",
+			"password":"",
+			"rtsp_url":"rtsp://admin:tengke1234@192.168.1.164:554/live1.sdp"
+		}
+	],
+	"server":"123",
+    "test": 
+        {
+        "rtsp_url": "rtsp://admin:tengke1234@192.168.1.152:554/live1.sdp",
+        "rtmp_url": "rtmp://video-center-bj.alivecdn.com/AppName/StreamName?vhost=live.51tanker.com&auth_key=1530790981-0-0-2059994b65284e00d74465f014000d14"
+    }
+}
