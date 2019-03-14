@@ -1,0 +1,12 @@
+D:\Users\Hello\TeacherWorkTable\CameraPlay\bin\x86\Release\CameraPlay.dll
+D:\Users\Hello\TeacherWorkTable\CameraPlay\bin\x86\Release\CameraPlay.pdb
+D:\Users\Hello\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.csproj.CoreCompileInputs.cache
+D:\Users\Hello\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.dll
+D:\Users\Hello\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.pdb
+D:\Users\Hello\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.csprojAssemblyReference.cache
+D:\Code\TeacherWorkTable\CameraPlay\bin\x86\Release\CameraPlay.dll
+D:\Code\TeacherWorkTable\CameraPlay\bin\x86\Release\CameraPlay.pdb
+D:\Code\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.csprojAssemblyReference.cache
+D:\Code\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.csproj.CoreCompileInputs.cache
+D:\Code\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.dll
+D:\Code\TeacherWorkTable\CameraPlay\obj\x86\Release\CameraPlay.pdb

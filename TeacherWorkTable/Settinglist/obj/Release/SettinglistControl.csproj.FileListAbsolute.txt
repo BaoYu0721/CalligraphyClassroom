@@ -1,0 +1,134 @@
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Settinglist.dll
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Settinglist.pdb
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\SettingCameraListItem.dll
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\SettingCameraListItem.pdb
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\SettinglistControl.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\libffRtspTest.Properties.Resources.resources
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\libffRtspTest.SettingListControl.resources
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\libffRtspTest.SettingAddControl.resources
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\Settinglist.dll
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\obj\Release\Settinglist.pdb
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\change_button_blue.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\change_button_white.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\delete_button_blue.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\delete_button_white.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\white_line.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\close_icon.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\blue_button_bg1.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\blue_button_bg2.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\setting_bg.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\setting_text_bg.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\add_button_bg.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\Settinglist\bin\Release\Resources\finish_button_bg.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\change_button_blue.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\change_button_white.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\delete_button_blue.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\delete_button_white.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\white_line.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\close_icon.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\blue_button_bg1.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\blue_button_bg2.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\setting_bg.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\setting_text_bg.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\add_button_bg.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\finish_button_bg.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Settinglist.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Settinglist.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.Properties.Resources.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingListControl.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingAddControl.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\Settinglist.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\Settinglist\obj\Release\Settinglist.pdb
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\white_line.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_blue.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_white.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_blue.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_white.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\close_icon.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg1.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg2.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\setting_bg.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\setting_text_bg.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\add_button_bg.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Resources\finish_button_bg.png
+F:\交接20180705\vs\TeacherWorkTable\Release\Settinglist.dll
+F:\交接20180705\vs\TeacherWorkTable\Release\Settinglist.pdb
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csprojResolveAssemblyReference.cache
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.Properties.Resources.resources
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingListControl.resources
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingAddControl.resources
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.Cache
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.dll
+F:\交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_blue.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_white.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_blue.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_white.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\white_line.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\close_icon.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg1.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg2.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\setting_bg.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\setting_text_bg.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\add_button_bg.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\finish_button_bg.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Settinglist.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Settinglist.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csprojAssemblyReference.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.Properties.Resources.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingListControl.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingAddControl.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CoreCompileInputs.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CopyComplete
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_blue.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\change_button_white.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_blue.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\delete_button_white.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\white_line.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\close_icon.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg1.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\blue_button_bg2.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\setting_text_bg.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\add_button_bg.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\finish_button_bg.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Resources\setting_bg.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Settinglist.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\Settinglist.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.Properties.Resources.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingListControl.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingAddControl.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CoreCompileInputs.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CopyComplete
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\Settinglist.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csprojAssemblyReference.cache
+D:\Users\Hello\TeacherWorkTable\Release\Resources\change_button_blue.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\change_button_white.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\delete_button_blue.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\delete_button_white.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\white_line.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\close_icon.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\blue_button_bg1.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\blue_button_bg2.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\setting_bg.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\setting_text_bg.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\add_button_bg.png
+D:\Users\Hello\TeacherWorkTable\Release\Resources\finish_button_bg.png
+D:\Users\Hello\TeacherWorkTable\Release\Settinglist.dll
+D:\Users\Hello\TeacherWorkTable\Release\Settinglist.pdb
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.Properties.Resources.resources
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingListControl.resources
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\TeacherWorkTable.SettingAddControl.resources
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.GenerateResource.cache
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CoreCompileInputs.cache
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csproj.CopyComplete
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\Settinglist.dll
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\Settinglist.pdb
+D:\Users\Hello\TeacherWorkTable\Settinglist\obj\Release\SettinglistControl.csprojAssemblyReference.cache

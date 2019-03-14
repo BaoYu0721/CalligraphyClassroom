@@ -1,0 +1,6 @@
+C:\Users\Hello\Documents\TeacherWorkTable\Release\SqliteControl.dll
+C:\Users\Hello\Documents\TeacherWorkTable\Release\SqliteControl.pdb
+C:\Users\Hello\Documents\TeacherWorkTable\SqliteControl\obj\Release\SqliteControl.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Documents\TeacherWorkTable\SqliteControl\obj\Release\SqliteControl.csproj.CopyComplete
+C:\Users\Hello\Documents\TeacherWorkTable\SqliteControl\obj\Release\SqliteControl.dll
+C:\Users\Hello\Documents\TeacherWorkTable\SqliteControl\obj\Release\SqliteControl.pdb

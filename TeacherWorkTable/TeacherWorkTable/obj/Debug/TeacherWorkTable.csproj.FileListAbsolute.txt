@@ -1,0 +1,9 @@
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\bin\Debug\TeacherWorkTable.exe.config
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\bin\Debug\TeacherWorkTable.exe
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\bin\Debug\TeacherWorkTable.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.Form1.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.Properties.Resources.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.exe
+E:\visual studio 2013\Projects\TeacherWorkTable\TeacherWorkTable\obj\Debug\TeacherWorkTable.pdb

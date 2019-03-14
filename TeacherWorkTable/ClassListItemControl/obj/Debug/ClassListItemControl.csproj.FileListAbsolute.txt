@@ -1,0 +1,12 @@
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\bin\Debug\Resources\white_line.png
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\bin\Debug\ClassListItemControl.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\bin\Debug\ClassListItemControl.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\Resources\white_line.png
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\ClassListItemControl.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\ClassListItemControl.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\ClassListItemControl.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\TeacherWorkTable.Properties.Resources.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\TeacherWorkTable.ClassListItemControl.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\ClassListItemControl.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\ClassListItemControl.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\ClassListItemControl\obj\Debug\ClassListItemControl.pdb

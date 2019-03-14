@@ -1,0 +1,89 @@
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\obj\Release\libffRtspTest.Properties.Resources.resources
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\obj\Release\libffRtspTest.SettingCameraListItem.resources
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+E:\visual studio 2013\Projects\VideoRTSPPlayer-2\SettingCameraListItem\bin\Release\Resources\white_line.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\white_line.png
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.Properties.Resources.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingAddControl.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingCameraListItem.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingListControl.resources
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.Cache
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csprojResolveAssemblyReference.cache
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\white_line.png
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.Properties.Resources.resources
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingAddControl.resources
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingCameraListItem.resources
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingListControl.resources
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.Cache
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+F:\交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\white_line.png
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csprojAssemblyReference.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.Properties.Resources.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingAddControl.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingCameraListItem.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingListControl.resources
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.CoreCompileInputs.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\white_line.png
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.Properties.Resources.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingAddControl.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingCameraListItem.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingListControl.resources
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.CoreCompileInputs.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csprojAssemblyReference.cache
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_blue.png
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\change_button_white.png
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_blue.png
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\delete_button_white.png
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\Resources\white_line.png
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.dll
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\bin\Release\SettingCameraListItem.pdb
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.Properties.Resources.resources
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.ResetCameraControl.resources
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingAddControl.resources
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingCameraListItem.resources
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\TeacherWorkTable.SettingListControl.resources
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.GenerateResource.cache
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.csproj.CoreCompileInputs.cache
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.dll
+D:\Users\Hello\TeacherWorkTable\SettingCameraListItem\obj\Release\SettingCameraListItem.pdb

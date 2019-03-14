@@ -1,0 +1,4 @@
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\CommonClassLibrary.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\CommonClassLibrary.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\CommonClassLibrary\obj\Debug\CommonClassLibrary.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\CommonClassLibrary\obj\Debug\CommonClassLibrary.pdb

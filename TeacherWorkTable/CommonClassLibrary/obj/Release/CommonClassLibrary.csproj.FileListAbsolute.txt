@@ -1,0 +1,29 @@
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\CommonClassLibrary.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\Release\CommonClassLibrary.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+E:\visual studio 2013\Projects\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb
+E:\visual studio 2013\Projects\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csprojResolveAssemblyReference.cache
+F:\交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.dll
+F:\交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.pdb
+F:\交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+F:\交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.pdb
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csprojAssemblyReference.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CopyComplete
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+C:\Users\fairy\Desktop\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\Release\CommonClassLibrary.pdb
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csprojAssemblyReference.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CoreCompileInputs.cache
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CopyComplete
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+D:\孟丹丹交接20180705\vs\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb
+D:\Users\Hello\TeacherWorkTable\Release\CommonClassLibrary.dll
+D:\Users\Hello\TeacherWorkTable\Release\CommonClassLibrary.pdb
+D:\Users\Hello\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Hello\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.csproj.CopyComplete
+D:\Users\Hello\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.dll
+D:\Users\Hello\TeacherWorkTable\CommonClassLibrary\obj\Release\CommonClassLibrary.pdb

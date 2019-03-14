@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/7/2 星期一 下午 2:52:23。
+     1>项目“E:\visual studio 2013\Projects\RTSPPlayAndPushToRTMP\RTSPPlayAndPushToRTMP\RTSPPlayAndPushToRTMP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D RTSPPLAYANDPUSHTORTMP_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt entrance.cpp execution.cpp video_decode.cpp video_push.cpp
+         video_push.cpp
+     1>e:\visual studio 2013\projects\rtspplayandpushtortmp\rtspplayandpushtortmp\include\libavutil\common.h(30): fatal error C1189: #error :  missing -D__STDC_CONSTANT_MACROS / #define __STDC_CONSTANT_MACROS
+         video_decode.cpp
+     1>e:\visual studio 2013\projects\rtspplayandpushtortmp\rtspplayandpushtortmp\include\libavutil\common.h(30): fatal error C1189: #error :  missing -D__STDC_CONSTANT_MACROS / #define __STDC_CONSTANT_MACROS
+         execution.cpp
+     1>e:\visual studio 2013\projects\rtspplayandpushtortmp\rtspplayandpushtortmp\include\libavutil\common.h(30): fatal error C1189: #error :  missing -D__STDC_CONSTANT_MACROS / #define __STDC_CONSTANT_MACROS
+         entrance.cpp
+     1>e:\visual studio 2013\projects\rtspplayandpushtortmp\rtspplayandpushtortmp\include\libavutil\common.h(30): fatal error C1189: #error :  missing -D__STDC_CONSTANT_MACROS / #define __STDC_CONSTANT_MACROS
+         正在生成代码...
+     1>已完成生成项目“E:\visual studio 2013\Projects\RTSPPlayAndPushToRTMP\RTSPPlayAndPushToRTMP\RTSPPlayAndPushToRTMP.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.13

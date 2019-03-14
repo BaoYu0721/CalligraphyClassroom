@@ -1,0 +1,8 @@
+LIBRARY RTSPPlayAndPushToRTMP
+
+EXPORTS
+  initffmpeg  @1
+  startInputDecode @2
+  stopInputDecode @3
+  startInputPush @4
+  stopInputPush @5
